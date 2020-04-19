@@ -1,0 +1,107 @@
+Script started on Sun Mar 19 23:08:28 2017
+aparpia@matrix:~/IPC144/workshops/w7/home> ws
+---=== Phone Numbers ===---
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 1
+
+Phone Numbers
+==============
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 2
+
+Add a Number
+============
+6475551212
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 2
+
+Add a Number
+============
+-2345
+ERROR!!! Phone Number is not Valid
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 4
+
+ERROR!!!: Incorrect Option: Try Again
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 2
+
+Add a Number
+============
+4164915050
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 2
+
+Add a Number
+============
+6132223333
+ERROR!!! Phone Number is not Valid
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 2
+
+Add a Number
+============
+6470223333
+ERROR!!! Phone Number is not Valid
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 2
+
+Add a Number
+============
+9052301212
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 1
+
+Phone Numbers
+==============
+(647)-555-1212
+(416)-491-5050
+(905)-230-1212
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 0
+
+Exiting Phone Number App. Good Bye!!!
+aparpia@matrix:~/IPC144/workshops/w7/home> exit
+exit
+
+Script done on Sun Mar 19 23:09:56 2017

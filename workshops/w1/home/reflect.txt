@@ -1,0 +1,3 @@
+- To use the Visual Studio to code, edit and execute a C-language program
+- To login to a remote host using an SSH client
+- To transfer files between a local computer and matric network

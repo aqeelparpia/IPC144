@@ -1,0 +1,16 @@
+//  -------------------------------------------------
+//Name: Aqeel Parpia
+//Student number:127921161
+//Email:aparpia@matrix.senecac.on.ca
+//Workshop: w9 home
+//Section: MM
+//Date: 2/04/2017
+//  -------------------------------------------------
+
+Qn1. The possible return values of the function readRecord  returns and integer type value after it has reach the amount of records to be recorded.
+
+Qn 2. 
+opening a file in 
+r mode - lets the program read from the file, 
+w mode - write to the file  if the file exists,trims off its contents and then write  if the file does not exist and create a new file and then write to that file,
+r+ mode - opens the file for reading and possibly writing.

@@ -1,0 +1,18 @@
+/*
+ Name: Aqeel Parpia
+ Student number:127921161
+ Email:aparpia@matrix.senecac.on.ca
+ Workshop: w8 home
+ Section: MM
+ Date: 28/03/2017
+ */
+
+1.When passing an array to a function it is by address as an argument to grant a function to an array and doest not allow copping the entire array.
+
+2.while having an extra integer it is simpler to take variable thats not inside the function to use or make any changes to it. 
+
+for eg
+int searchInventory(const struct Book book[], const int isbn, const int size);
+the int size parameter limits the function and the int isbn is used to match with the array so as to give the value needed.
+
+3.Because “const” specify that it is an unmodifiable value that can not be changed by the user.

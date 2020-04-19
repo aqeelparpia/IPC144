@@ -1,0 +1,10 @@
+1.Because the highest value given is 10.
+
+2.ADVANTAGES
+-It is more efficient to work with.
+-it is more understandble when presented.
+
+DISADAVTAGES
+-Occupies space.
+
+3.its just right as it gives us challanges and lets us know how to differentiate between while/do while.

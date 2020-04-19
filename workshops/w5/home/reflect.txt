@@ -1,0 +1,18 @@
+NAME: AQEELPARPIA
+STUDENT ID: 127921161
+SECTION: MM
+USER ID: aparpia@myseneca.ca
+
+1.
+ARRAY OF STRUCT VERSESPARALLEL ARRAY
+for array of struct
+- Its easy to manage
+- It makes it easier for us to find errors 
+
+while for parallel array
+- Every new field needs a new array
+
+
+
+
+2. because it makes it simpler and faster to locate the source file.

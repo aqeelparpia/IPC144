@@ -1,0 +1,13 @@
+1. One of the advantage is that parameters can be used as many times in a program while return values can only be used once .
+2. Dereference is the term used to describe pointers receiving value that is stored in a memory location example: *linenumber.
+3. The address of another variable is stored by a pointer variable.
+/*
+ÿName: AQEEL PARPIA
+ÿStudent number: 127921161
+ÿEmail: aparpia@mysenenca.ca
+ÿMilestone: 1
+ÿSection: workshop 7 home
+ÿDate: 16 March 2017
+ÿ*/
+
+

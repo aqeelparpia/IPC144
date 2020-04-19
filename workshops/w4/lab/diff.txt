@@ -1,0 +1,10 @@
+
+In line number 4 of your output:
+The output should be:
+Please enter the number of days, between 3 and 10, inclusive: 2
+But your output is: 
+Please enter the number of the days, between 3 and 10, inclusive: 2
+                           ^
+---------------------------|
+Professor's character ASCII code: hex(64), dec(100)
+un-matched character ASCII code: hex(74), dec(116)

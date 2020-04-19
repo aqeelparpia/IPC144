@@ -1,0 +1,21 @@
+/*
+Name:Aqeel Parpia
+Student number: 127921161
+Email:aparpia@myseneca.ca
+Workshop: w6-home
+Section: MM
+Date: 3 march 2017
+*/
+
+1. Aÿfunctionÿis a group of statements that together perform a task.
+ To make the  program more readable and organised,
+ To reduce repeated code. (reusability )
+
+2.it makes it easier to operate the calculations of that variable which you call and return .
+ 
+3.By calling the function.
+
+
+
+
+

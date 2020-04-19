@@ -1,0 +1,1 @@
+Qn 1.  - While        -Do while       -For Qn 2. The difference between while loops and do while    loop is that a while loop      test expressions at first while   do while loop the code is executed at first then the   condition is tested. Qn 3. Conditional expressions are features which perform different actions depending on weather the condition is true or false.
